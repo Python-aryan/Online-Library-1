@@ -2,7 +2,7 @@ package com.company;
 import java.util.Scanner;
 class Library {
 
-    // Add Book To Libary
+    // Add Book
     public void addBook() {
         Scanner sc = new Scanner(System.in);
         System.out.println("Please type the Book name you want to add :");
@@ -79,4 +79,3 @@ public class tuts {
         }
     }
 }
-
